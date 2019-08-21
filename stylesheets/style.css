@@ -1778,12 +1778,16 @@ div#myModal .modal-body {
   }
 }
 /* line 864, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Parthasarathi"] .img {
-  background-image: url(../images/vols/partha.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Utkarsh"] .img {
+  background-image: url(../images/vols/utkarsh.jpg);
 }
 /* line 867, ../sass/shared/_home.scss */
 #page .section-6 .volunteers .vl-i .person[data-fname="Swaminathan"] .img {
   background-image: url(../images/vols/swami.jpg);
+}
+/* line 870, ../sass/shared/_home.scss  important! */
+#page .section-6 .volunteers .vl-i .person[data-fname="Anamika"] .img {
+  background-image: url(../images/vols/anamika.jpg);
 }
 /* line 873, ../sass/shared/_home.scss */
 #page .section-6 .volunteers .vl-i .person[data-fname="Ragunathan"] .img {
